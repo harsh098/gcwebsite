@@ -216,7 +216,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/GrowInCommunity-2.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -325,7 +325,7 @@ button {
 .banner_text {
     width: 90%;
     font-size: 60px;
-    color: #445e7a;
+    color: #dcc022;
     padding-top: 10px;
     text-transform: uppercase;
     font-family: 'Philosopher', sans-serif;
@@ -342,8 +342,7 @@ button {
     float: left;
     padding: 10px 10px;
     color: #000;
-    background-color: #5271fd;
-;
+    background-color: #e7c100;
     text-align: center;
     font-size: 16px;
     font-weight: 600;
