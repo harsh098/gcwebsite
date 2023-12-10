@@ -102,7 +102,7 @@ h4 a,
 h5 a,
 h6 a {
     color: #212121;
-    text-decoration: none!important;
+    text-decoration: none !important;
     opacity: 1
 }
 
@@ -147,7 +147,7 @@ img {
     height: auto;
 }
 
- :focus {
+:focus {
     outline: 0;
 }
 
@@ -224,8 +224,7 @@ button {
 
 .header_bg {
     background: #ffffff;
-    border-bottom: 1px solid #5271fd
-;
+    border-bottom: 1px solid #5271fd;
 }
 
 .bg-light {
@@ -257,8 +256,7 @@ button {
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
     color: #fefefd;
-    background-color: #5271fd
-;
+    background-color: #5271fd;
 }
 
 .navbar-brand {
@@ -296,8 +294,7 @@ button {
 }
 
 .login_bt li a:hover {
-    color: #5271fd
-;
+    color: #5271fd;
 }
 
 
@@ -319,7 +316,7 @@ button {
     color: #000;
     font-weight: bold;
     margin: 0px;
-    font-family: 'Philosopher', sans-serif;
+    font-family: sans-serif;
 }
 
 .banner_text {
@@ -328,7 +325,7 @@ button {
     color: #dcc022;
     padding-top: 10px;
     text-transform: uppercase;
-    font-family: 'Philosopher', sans-serif;
+    font-family: sans-serif;
 }
 
 .started_text {
@@ -347,7 +344,7 @@ button {
     font-size: 16px;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: 'Philosopher', sans-serif;
+    font-family: sans-serif;
 }
 
 .started_text a:hover {
@@ -385,7 +382,7 @@ button {
 
 .banner_menu li a:hover {
     color: #5271fd;
-;
+    ;
 }
 
 .carousel-indicators li {
@@ -418,7 +415,7 @@ button {
     width: 100%;
     float: left;
     background-color: #5271fd;
-;
+    ;
     height: auto;
     background-size: 100%;
     padding: 90px 0px;
@@ -567,8 +564,7 @@ button {
     color: #ece3e3;
     padding: 0px;
     font-weight: bold;
-    background-color: #5271fd
-;
+    background-color: #5271fd;
     text-align: center;
     border-radius: 40px;
     padding: 12px;
@@ -661,8 +657,7 @@ button {
 #costum_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background: #5271fd
-;
+    background: #5271fd;
     opacity: 1;
     font-size: 40px;
     color: #ffffff;
@@ -759,7 +754,7 @@ button {
     padding: 10px;
     margin-top: 30px;
     background-color: #fbd92c;
-;
+    ;
     text-transform: uppercase;
 }
 
@@ -841,8 +836,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 18px;
     color: #ffffff;
-    background-color: #5271fd
-;
+    background-color: #5271fd;
     padding: 16px;
     text-transform: uppercase;
     margin-top: 30px;
@@ -902,8 +896,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .location_text a:hover {
-    color: #5271fd
-;
+    color: #5271fd;
 }
 
 .footer_menu {
@@ -924,8 +917,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .footer_menu li a:hover {
-    color: #5271fd
-;
+    color: #5271fd;
 }
 
 .social_icon {
@@ -956,8 +948,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .social_icon li a:hover {
-    background-color: #5271fd
-;
+    background-color: #5271fd;
     color: #ffffff;
 }
 
@@ -1026,8 +1017,7 @@ textarea#comment::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #5271fd
-;
+    color: #5271fd;
 }
 
 
