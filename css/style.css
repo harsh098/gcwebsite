@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    background-color: #0b0b0b;
+    background-color: #5271fd;
     color: #666666;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
@@ -755,10 +755,10 @@ button {
     float: left;
     text-align: center;
     font-size: 18px;
-    color: #ffffff;
+    color: #000000;
     padding: 10px;
     margin-top: 30px;
-    background-color: #5271fd
+    background-color: #fbd92c;
 ;
     text-transform: uppercase;
 }
